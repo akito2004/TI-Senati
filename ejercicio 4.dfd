@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+17
+'ingresa la nota'
+5
+1
+1
+a
+4
+1
+25
+'ingrese la segunda nota'
+5
+1
+1
+b
+4
+1
+25
+'ingrese la ultima nota '
+5
+1
+1
+c
+6
+2
+4
+suma
+5
+a+b+c
+9
+promedio 
+6
+suma/3
+4
+1
+27
+'el resultado es ',promedio
+1

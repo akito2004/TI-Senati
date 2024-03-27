@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'ingressa la primera nota'
+5
+1
+1
+a
+4
+1
+25
+'ingrese la segunda nota'
+5
+1
+1
+b
+4
+1
+25
+'ingrese la tercera nota'
+5
+1
+1
+c
+6
+2
+4
+suma
+5
+a+b+c
+8
+promedio
+6
+suma/3
+7
+0
+1
+11
+promedio>13
+4
+1
+18
+'esta desaprobado'
+13
+4
+1
+15
+'esta aprobado'
+13
+1

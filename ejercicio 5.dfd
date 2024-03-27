@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+5
+a,b,c
+7
+0
+1
+11
+b>a and a>c
+7
+0
+1
+11
+b>a and b>c
+7
+0
+1
+11
+c>a and c>b
+13
+4
+1
+23
+'el mayor numero es ',c
+13
+13
+4
+1
+23
+'el mayor numero es ',b
+13
+13
+4
+1
+22
+'el mayor numero es',a
+13
+1
