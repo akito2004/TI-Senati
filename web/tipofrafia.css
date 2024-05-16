@@ -1,0 +1,48 @@
+.color{
+    color:blue;
+    /*font-seze:20px:*/
+    font-size: 2px;
+    font-family: cursive;
+    font-weight: bold;
+    text-align: center;
+}
+.parrafo{
+    text-align: justify;
+    word-spacing: 20px;
+}
+.h1{
+    background-color: rgba(red, green, blue, alpha);
+    padding: 90px 90px 150px 60px ;
+}
+.h2{
+    padding-right: -400px;
+    padding-top: 400px;
+}
+
+.caja{
+     border: solid 1px black;
+
+     margin-left: 80px;
+     margin-right: 80px;
+     margin-bottom: 80px;
+}
+.caja h1{
+    margin: 60px;
+    background: blue;
+    color: white;
+
+}
+.posicionamiento h3{
+     position: relative;
+     left: 120px;
+     right: 120px;
+     top: 120px;
+     border: solid 2px black ;
+}
+.absoluto h3{
+    position: relative;
+    left: 200px;
+    right: 200px;
+    top: 90px;
+
+}
